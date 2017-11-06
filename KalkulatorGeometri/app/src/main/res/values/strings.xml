@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator Geometri</string>
+
+    <string-array name="pilih_bangun_datar">
+        <item>Persegi</item>
+        <item>Lingkaran</item>
+        <item>Segitiga Siku - siku</item>
+    </string-array>
+</resources>
